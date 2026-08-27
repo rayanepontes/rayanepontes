@@ -34,7 +34,8 @@ right now, i'm more focused on learning the fundamentals instead of trying to sp
 ### current arc
 
 * Java
-*  web development
+* Python
+* web development
 * MVC & software architecture
 * databases
 * Git & GitHub
