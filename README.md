@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/eu.svg" width="200" alt="ilustração 2D da ray" />
+
 # hey, i'm ray ✦
 
 ### `currently under development`
@@ -8,7 +10,7 @@ software development student · front-end enthusiast · professional bug collect
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rayane-pontes-46019922b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-pontes-46019922b/)
 
 </div>
 
