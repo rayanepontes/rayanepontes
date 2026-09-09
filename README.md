@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm ray 👾
+# hey, i'm ray ✦
 
 ### `currently under development`
 
@@ -34,6 +34,7 @@ right now, i'm more focused on learning the fundamentals instead of trying to sp
 ### current arc
 
 * Java
+* C
 * Python
 * web development
 * MVC & software architecture
